@@ -1,1 +1,1 @@
-var Project = 'lecture3'
+var Project = 'Simple_Pendulum'
