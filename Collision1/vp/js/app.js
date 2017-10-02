@@ -1,6 +1,6 @@
 /*==JS VERSION 1==*/
-var endPoint = window.location.origin + '/';
-
+//var endPoint = window.location.origin + '/';
+var endPoint = 'http://140.113.199.199:9999/'
 var timestamp = '';
 
 const csmRegister = function(pf) {
